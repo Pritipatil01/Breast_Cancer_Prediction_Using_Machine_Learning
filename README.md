@@ -12,7 +12,9 @@ Logistic regression
 The process involves:
 
 **Data Preprocessing:** Cleaning, normalization, and feature selection.
+
 **Model Training:** Splitting the dataset into training and testing sets.
+
 **Evaluation:** use accuracy metrics.
 
 ## Results and Discussion
