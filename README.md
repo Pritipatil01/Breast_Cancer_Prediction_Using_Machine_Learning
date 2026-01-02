@@ -20,7 +20,6 @@ The process involves:
 ## Results and Discussion
 
 The analysis yielded:
-
 Model performance metrics and accuracy.
 Insights into the most important features for diagnosis.
 Interpretation of results and their implications for breast cancer diagnosis.
